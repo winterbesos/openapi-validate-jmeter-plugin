@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+classes/
+jmeter-openapi-plugin.iml
+maven-archiver/
+maven-status/
+surefire-reports/
+target/
+test-classes/
